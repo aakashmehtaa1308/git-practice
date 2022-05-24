@@ -5,4 +5,14 @@ def Func(x,y):
     print("Rumblefool")
     print("Coachsaab")
 
+def New_Func(x,y,z):
+    print(x,y,z)
+    print("Learning git")
+    if x%2==1:
+        Func(z,x)
+
+
+
 Func(9,5)
+
+New_Func(3,2,1)
