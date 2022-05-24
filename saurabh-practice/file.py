@@ -4,3 +4,5 @@ def add(request):
     c = a+b
     print("The sum of two number is : ")
     print(c)
+def sub(request):
+    print('i donot know request')
