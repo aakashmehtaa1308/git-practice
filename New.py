@@ -20,3 +20,7 @@ Func(9,5)
 
 New_Func(3,2,1)
 IPL('RR','GT')
+
+def probability():
+    print("Who will win todays Qualifier")
+    print("Probability that GT will win is" + 0.75)
