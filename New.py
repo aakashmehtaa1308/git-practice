@@ -24,3 +24,7 @@ IPL('RR','GT')
 def probability():
     print("Who will win todays Qualifier")
     print("Probability that GT will win is" + 0.75)
+
+
+def confusion():
+    print("confusion...")
