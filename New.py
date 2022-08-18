@@ -1,4 +1,4 @@
-print("Learning Python with git")
+("Learning Python with git")
 
 def Func(x,y):
     print(x,y)
